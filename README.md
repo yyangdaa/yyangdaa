@@ -9,7 +9,7 @@ Welcome to my GitHub! This special repository is not just a collection of my pro
 - 👯 I’m keen to collaborate on **LLM (Large Language Models) research**. Interested in pushing the boundaries of AI together? Let's connect!
 - 🤔 I’m seeking support with **Web/App Development**. Your expertise in cutting-edge web technologies or unique UI/UX insights could be invaluable!
 - 💬 Feel free to ask me about anything tech-related. I thrive on sharing knowledge and learning from the community.
-- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/yyangdaa) or [Twitter](https://twitter.com/yyangdaa).
+- 📫 Reach out to me via [LinkedIn](https://www.linkedin.com/in/yyangdaa).
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: When I'm not coding, I enjoy hiking and capturing the beauty of nature through photography!
 
