@@ -5,7 +5,7 @@ Welcome to my GitHub! This special repository is not just a collection of my pro
 ### About Me
 
 - 🔭 I’m currently immersed in **Full-stack Development**, crafting responsive and dynamic web applications.
--   **Quantitative Developer Intern @ Octava ** (Jul 2025 – Present)
+- 🔭 **Quantitative Developer Intern @ Octava** (Jul 2025 – Present)
 -   Develop Python scripts for daily on-chain data analysis and algorithmic trading,
 -   build real-time listeners on Solana platforms (e.g. Pump.fun, Raydium), and
 -   run simulations across price points to optimize strategy.
