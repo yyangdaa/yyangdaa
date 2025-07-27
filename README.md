@@ -5,6 +5,10 @@ Welcome to my GitHub! This special repository is not just a collection of my pro
 ### About Me
 
 - 🔭 I’m currently immersed in **Full-stack Development**, crafting responsive and dynamic web applications.
+-   **Quantitative Developer Intern @ Octava ** (Jul 2025 – Present)
+-   Develop Python scripts for daily on-chain data analysis and algorithmic trading,
+-   build real-time listeners on Solana platforms (e.g. Pump.fun, Raydium), and
+-   run simulations across price points to optimize strategy.
 - 🌱 Deep diving into **Computer Vision and Deep Learning**—I'm driven to explore how AI can transform our visual world.
 - 👯 I’m keen to collaborate on **LLM (Large Language Models) research**. Interested in pushing the boundaries of AI together? Let's connect!
 - 🤔 I’m seeking support with **Web/App Development**. Your expertise in cutting-edge web technologies or unique UI/UX insights could be invaluable!
@@ -13,9 +17,6 @@ Welcome to my GitHub! This special repository is not just a collection of my pro
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: When I'm not coding, I enjoy hiking and capturing the beauty of nature through photography!
 
-### My GitHub Stats
-
-![Yangda's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyangdaa&show_icons=true&theme=radical)
 
 ### Technologies I Work With:
 
